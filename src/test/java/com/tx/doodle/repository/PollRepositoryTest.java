@@ -68,6 +68,14 @@ class PollRepositoryTest {
 	}
 
 	@Test
+	void findByTitleLike_titleStringIsEmpty_returnsAllPolls() {
+		List<Poll> polls = pollRepository.findByTitleLike("");
+
+		assertThat(polls).extracting(Poll::getId).containsExactly("xsd4cv89t5f5um4b", "ps5878bwv3eyxkzm",
+				"kvckhe3m5xaiw6fa");
+	}
+
+	@Test
 	void findByInitiatedAfter_returnsPollsFromRepositoryWithInitiatedDateAfter() {
 		List<Poll> polls = pollRepository.findByInitiatedAfter(1485521569055L);
 

@@ -1,6 +1,6 @@
 [
   {
-    "id": "xsd4cv89t5f5um4b",
+    "_id": "xsd4cv89t5f5um4b",
     "adminKey": "r44d7piq",
     "latestChange": 1485521573482,
     "initiated": 1485521569056,
@@ -115,7 +115,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "ps5878bwv3eyxkzm",
+    "_id": "ps5878bwv3eyxkzm",
     "adminKey": "sp4xfrkr",
     "latestChange": 1485521573504,
     "initiated": 1485477127056,
@@ -196,7 +196,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "kvckhe3m5xaiw6fa",
+    "_id": "kvckhe3m5xaiw6fa",
     "adminKey": "2cxgkvk9",
     "latestChange": 1485521573485,
     "initiated": 1485432685057,
@@ -269,7 +269,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "h75eeaudhf3tf3v3",
+    "_id": "h75eeaudhf3tf3v3",
     "adminKey": "wyemiw4y",
     "latestChange": 1485521573489,
     "initiated": 1485388243056,
@@ -341,7 +341,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "f6gbfaddy6dd7x94",
+    "_id": "f6gbfaddy6dd7x94",
     "adminKey": "h2i2b4ac",
     "latestChange": 1485521573538,
     "initiated": 1485343801056,
@@ -413,7 +413,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "d5p8e7qv39k2qhkq",
+    "_id": "d5p8e7qv39k2qhkq",
     "adminKey": "yekgrax3",
     "latestChange": 1485521573518,
     "initiated": 1485299359061,
@@ -486,7 +486,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "h8shpq4wrq3s6gic",
+    "_id": "h8shpq4wrq3s6gic",
     "adminKey": "axfheeuu",
     "latestChange": 1485521573538,
     "initiated": 1485254917081,
@@ -573,7 +573,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "vb7gz74hsgcdku94",
+    "_id": "vb7gz74hsgcdku94",
     "adminKey": "a9msrbve",
     "latestChange": 1485521573543,
     "initiated": 1485210475083,
@@ -639,7 +639,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "ynd34wwm5ntahfup",
+    "_id": "ynd34wwm5ntahfup",
     "adminKey": "3rmnw6ur",
     "latestChange": 1485521573551,
     "initiated": 1485166033083,
@@ -723,7 +723,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "wcqpummzps5avwc8",
+    "_id": "wcqpummzps5avwc8",
     "adminKey": "iznckxbz",
     "latestChange": 1485521573550,
     "initiated": 1485121591084,
@@ -789,7 +789,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "trdmfzyz4m3dfpvx",
+    "_id": "trdmfzyz4m3dfpvx",
     "adminKey": "ww94bnig",
     "latestChange": 1485521573563,
     "initiated": 1485077149084,
@@ -840,7 +840,7 @@
     "levels": "YESNOIFNEEDBE"
   },
   {
-    "id": "4xwb7h2cfgv7yauw",
+    "_id": "4xwb7h2cfgv7yauw",
     "adminKey": "d7xazzfh",
     "latestChange": 1485521573563,
     "initiated": 1485032707087,
@@ -906,7 +906,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "4qk7ueh76knxa9c8",
+    "_id": "4qk7ueh76knxa9c8",
     "adminKey": "ivyc83rv",
     "latestChange": 1485521573571,
     "initiated": 1484988265098,
@@ -950,7 +950,7 @@
     "levels": "YESNOIFNEEDBE"
   },
   {
-    "id": "uxc4rzrk9syd5iq7",
+    "_id": "uxc4rzrk9syd5iq7",
     "adminKey": "ii79h499",
     "latestChange": 1485521573591,
     "initiated": 1484943823123,
@@ -1035,7 +1035,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "ggiaztzr377dxnat",
+    "_id": "ggiaztzr377dxnat",
     "adminKey": "6z3qqatm",
     "latestChange": 1485521573585,
     "initiated": 1484899381119,
@@ -1086,7 +1086,7 @@
     "levels": "YESNOIFNEEDBE"
   },
   {
-    "id": "5453yuvsugff222v",
+    "_id": "5453yuvsugff222v",
     "adminKey": "hydhkf8t",
     "latestChange": 1485521573578,
     "initiated": 1484854939118,
@@ -1144,7 +1144,7 @@
     "levels": "YESNOIFNEEDBE"
   },
   {
-    "id": "qtch3msf8c2dzqac",
+    "_id": "qtch3msf8c2dzqac",
     "adminKey": "hw57r24y",
     "latestChange": 1485521573599,
     "initiated": 1484810497122,
@@ -1240,7 +1240,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "bxvxwxph7c2tv73v",
+    "_id": "bxvxwxph7c2tv73v",
     "adminKey": "zw9kpsz5",
     "latestChange": 1485521569120,
     "initiated": 1484766055120,
@@ -1302,7 +1302,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "q7f9nf3urfppi85v",
+    "_id": "q7f9nf3urfppi85v",
     "adminKey": "eatguz5e",
     "latestChange": 1485521573600,
     "initiated": 1484721613120,
@@ -1387,7 +1387,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "7sx38bt7x5numivk",
+    "_id": "7sx38bt7x5numivk",
     "adminKey": "gaveewn5",
     "latestChange": 1485521573618,
     "initiated": 1484677171162,
@@ -1456,7 +1456,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "kgar6dfbrrakf7xb",
+    "_id": "kgar6dfbrrakf7xb",
     "adminKey": "yeadav4t",
     "latestChange": 1485521573609,
     "initiated": 1484632729141,
@@ -1514,7 +1514,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "9b8fc4paqptnt3hd",
+    "_id": "9b8fc4paqptnt3hd",
     "adminKey": "dnac8ynn",
     "latestChange": 1485521573608,
     "initiated": 1484588287141,
@@ -1594,7 +1594,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "xyzz9i4257p27in4",
+    "_id": "xyzz9i4257p27in4",
     "adminKey": "6zuzkgh2",
     "latestChange": 1485521573625,
     "initiated": 1484543845162,
@@ -1666,7 +1666,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "kyn9s6kbetz9rbgf",
+    "_id": "kyn9s6kbetz9rbgf",
     "adminKey": "5zr2c38r",
     "latestChange": 1485521573625,
     "initiated": 1484499403162,
@@ -1748,7 +1748,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "nhmtx98yzva4ufu8",
+    "_id": "nhmtx98yzva4ufu8",
     "adminKey": "2akwyht7",
     "latestChange": 1485521573625,
     "initiated": 1484454961162,
@@ -1806,7 +1806,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "uisf4vyakfisytfv",
+    "_id": "uisf4vyakfisytfv",
     "adminKey": "5khnhbcr",
     "latestChange": 1485521573635,
     "initiated": 1484410519162,
@@ -1868,7 +1868,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "y3wxzgpwx5bbcv3f",
+    "_id": "y3wxzgpwx5bbcv3f",
     "adminKey": "w52wcqe4",
     "latestChange": 1485521573635,
     "initiated": 1484366077181,
@@ -1943,7 +1943,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "ktuxtbn6m9z327id",
+    "_id": "ktuxtbn6m9z327id",
     "adminKey": "c22h4uwy",
     "latestChange": 1485521573635,
     "initiated": 1484321635165,
@@ -2005,7 +2005,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "wexz8fr7gn32ngme",
+    "_id": "wexz8fr7gn32ngme",
     "adminKey": "223egkrr",
     "latestChange": 1485521573642,
     "initiated": 1484277193181,
@@ -2069,7 +2069,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "rkkrqfg9pm7fxgqm",
+    "_id": "rkkrqfg9pm7fxgqm",
     "adminKey": "z7t77qdq",
     "latestChange": 1485521569184,
     "initiated": 1484232751184,
@@ -2121,7 +2121,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "3ctap3udtdwbmnru",
+    "_id": "3ctap3udtdwbmnru",
     "adminKey": "sh3n2ymr",
     "latestChange": 1485521573642,
     "initiated": 1484188309187,
@@ -2174,7 +2174,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "smwqm3szvvayafp7",
+    "_id": "smwqm3szvvayafp7",
     "adminKey": "4mfbhcux",
     "latestChange": 1485521573642,
     "initiated": 1484143867187,
@@ -2238,7 +2238,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "kysqi3was64fy8ff",
+    "_id": "kysqi3was64fy8ff",
     "adminKey": "sby5h225",
     "latestChange": 1485521573649,
     "initiated": 1484099425192,
@@ -2301,7 +2301,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "5gnw9srpx6zgwqm9",
+    "_id": "5gnw9srpx6zgwqm9",
     "adminKey": "gvrb3fam",
     "latestChange": 1485521573653,
     "initiated": 1484054983216,
@@ -2373,7 +2373,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "zpq6xfvxunt9e3f2",
+    "_id": "zpq6xfvxunt9e3f2",
     "adminKey": "4vhb4zw2",
     "latestChange": 1485521569216,
     "initiated": 1484010541216,
@@ -2415,7 +2415,7 @@
     "levels": "YESNO"
   },
   {
-    "id": "yqca2hi5yrpkrid5",
+    "_id": "yqca2hi5yrpkrid5",
     "adminKey": "2tm83iti",
     "latestChange": 1485521573661,
     "initiated": 1483966099216,

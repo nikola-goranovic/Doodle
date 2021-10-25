@@ -5,5 +5,5 @@ public class SecurityUtils {
 	private SecurityUtils() {
 	}
 
-	public static final String USER = "hasAuthority('USER')";
+	public static final String USER = "hasRole('USER')";
 }

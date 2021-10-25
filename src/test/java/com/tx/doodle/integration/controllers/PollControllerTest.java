@@ -31,7 +31,7 @@ class PollControllerTest {
 	}
 
 	@Test
-	@WithMockUser(authorities = "USER")
+	@WithMockUser(authorities = "ROLE_USER")
 	void findByInitiatorName_roleIsUser_returnsOk() throws Exception {
 		mvc.perform(get("/polls/initiator").queryParam("initiator", "batman")).andExpect(status().isOk());
 	}
@@ -43,7 +43,7 @@ class PollControllerTest {
 	}
 
 	@Test
-	@WithMockUser(authorities = "USER")
+	@WithMockUser(authorities = "ROLE_USER")
 	void searchByTitle_roleIsUser_returnsOk() throws Exception {
 		mvc.perform(get("/polls/title").queryParam("title", "Gotham")).andExpect(status().isOk());
 	}
@@ -55,7 +55,7 @@ class PollControllerTest {
 	}
 
 	@Test
-	@WithMockUser(authorities = "USER")
+	@WithMockUser(authorities = "ROLE_USER")
 	void findByInitiatedAfter_roleIsUser_returnsOk() throws Exception {
 		mvc.perform(get("/polls/initiated").queryParam("initiated", "1")).andExpect(status().isOk());
 	}

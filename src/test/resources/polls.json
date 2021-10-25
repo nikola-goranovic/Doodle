@@ -1,0 +1,274 @@
+[
+  {
+    "_class": "com.tx.doodle.model.Poll",
+    "id": "xsd4cv89t5f5um4b",
+    "adminKey": "r44d7piq",
+    "latestChange": 1485521573482,
+    "initiated": 1485521569056,
+    "participantsCount": 4,
+    "inviteesCount": 0,
+    "type": "TEXT",
+    "hidden": true,
+    "preferencesType": "YESNO",
+    "state": "OPEN",
+    "locale": "fr_CH",
+    "title": "Qui sont les superhéros Marvel les plus oufs?",
+    "initiator": {
+      "name": "Bruce Wayne",
+      "email": "mh+sample@doodle.com",
+      "notify": false
+    },
+    "options": [
+      {
+        "text": "Spider-Man",
+        "available": true
+      },
+      {
+        "text": "Captain Marvel",
+        "available": true
+      },
+      {
+        "text": "Hulk",
+        "available": true
+      },
+      {
+        "text": "Thor",
+        "available": true
+      },
+      {
+        "text": "Iron Man",
+        "available": true
+      },
+      {
+        "text": "Luke Cage",
+        "available": true
+      },
+      {
+        "text": "Black Widow",
+        "available": true
+      },
+      {
+        "text": "Daredevil",
+        "available": true
+      }
+    ],
+    "optionsHash": "509166a0b12ed8e4ec658f0060aaf38e",
+    "participants": [
+      {
+        "id": 1722022335,
+        "name": "Ringo",
+        "preferences": [
+          1,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "id": 1873740236,
+        "name": "George",
+        "preferences": [
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          1
+        ]
+      },
+      {
+        "id": 1035270451,
+        "name": "John",
+        "preferences": [
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1
+        ]
+      },
+      {
+        "id": 25195396,
+        "name": "Paul",
+        "preferences": [
+          1,
+          1,
+          0,
+          1,
+          0,
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "invitees": [],
+    "device": "WEB",
+    "levels": "YESNO"
+  },
+  {
+    "_class": "com.tx.doodle.model.Poll",
+    "id": "ps5878bwv3eyxkzm",
+    "adminKey": "sp4xfrkr",
+    "latestChange": 1485521573504,
+    "initiated": 1485477127056,
+    "participantsCount": 4,
+    "inviteesCount": 0,
+    "type": "DATE",
+    "preferencesType": "YESNO",
+    "state": "OPEN",
+    "locale": "fr_CH",
+    "title": "Petit Jay va avoir DEUX ANS! Déjà \\o/",
+    "description": "Le bébé 👶🏼 le plus adorable au monde va avoir 2 ans le 12 janvier. Le temps passe vite. Quand auriez-vous du temps pour fêter avec nous?",
+    "initiator": {
+      "name": "Bruce Wayne",
+      "email": "mh+sample@doodle.com",
+      "notify": false
+    },
+    "options": [
+      {
+        "start": 1420977600000,
+        "allday": true,
+        "date": 1420977600000,
+        "available": true
+      },
+      {
+        "start": 1421064000000,
+        "allday": true,
+        "date": 1421064000000,
+        "available": true
+      },
+      {
+        "start": 1421150400000,
+        "allday": true,
+        "date": 1421150400000,
+        "available": true
+      }
+    ],
+    "optionsHash": "99e3ce6640a4e56362c87b1f8d820291",
+    "participants": [
+      {
+        "id": 1463886711,
+        "name": "John",
+        "preferences": [
+          0,
+          1,
+          1
+        ]
+      },
+      {
+        "id": 1235006209,
+        "name": "George",
+        "preferences": [
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "id": 711830806,
+        "name": "Ringo",
+        "preferences": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "id": 1344036511,
+        "name": "Paul",
+        "preferences": [
+          1,
+          1,
+          0
+        ]
+      }
+    ],
+    "invitees": [],
+    "device": "WEB",
+    "levels": "YESNO"
+  },
+  {
+    "_class": "com.tx.doodle.model.Poll",
+    "id": "kvckhe3m5xaiw6fa",
+    "adminKey": "2cxgkvk9",
+    "latestChange": 1485521573485,
+    "initiated": 1485432685057,
+    "participantsCount": 1,
+    "inviteesCount": 0,
+    "type": "TEXT",
+    "hidden": true,
+    "preferencesType": "YESNO",
+    "state": "OPEN",
+    "locale": "en_US",
+    "title": "Who are the most badass Marvel superheroes?",
+    "initiator": {
+      "name": "Clark Kent",
+      "email": "mh+sample@doodle.com",
+      "notify": false
+    },
+    "options": [
+      {
+        "text": "Spider-Man",
+        "available": true
+      },
+      {
+        "text": "Captain Marvel",
+        "available": true
+      },
+      {
+        "text": "Hulk",
+        "available": true
+      },
+      {
+        "text": "Thor",
+        "available": true
+      },
+      {
+        "text": "Iron Man",
+        "available": true
+      },
+      {
+        "text": "Luke Cage",
+        "available": true
+      },
+      {
+        "text": "Black Widow",
+        "available": true
+      },
+      {
+        "text": "Daredevil",
+        "available": true
+      }
+    ],
+    "optionsHash": "509166a0b12ed8e4ec658f0060aaf38e",
+    "participants": [
+      {
+        "id": 981546885,
+        "name": "Ringo",
+        "preferences": [
+          0,
+          1,
+          1,
+          1,
+          0,
+          1,
+          1,
+          0
+        ]
+      }
+    ],
+    "invitees": [],
+    "device": "WEB",
+    "levels": "YESNO"
+  }
+]

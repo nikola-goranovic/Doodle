@@ -1,7 +1,8 @@
-package com.tx.doodle.repository;
+package com.tx.doodle.integration.repository;
 
 import com.tx.doodle.config.PollPopulatorTestConfiguration;
 import com.tx.doodle.model.Poll;
+import com.tx.doodle.repository.PollRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
